@@ -9,7 +9,7 @@ import com.microsoft.playwright.Page;
 	import com.microsoft.playwright.Playwright;
 //import com.sun.media.sound.Toolkit;
 
-	public class PlayBaseclass {
+	public class PlayBaseclassTest {
 
 	    @Test
 	    public void launchBrowser() throws InterruptedException {
