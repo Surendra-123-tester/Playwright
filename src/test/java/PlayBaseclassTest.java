@@ -50,8 +50,7 @@ import com.microsoft.playwright.Page;
           System.out.println(blocklinks.nth(i).innerText()+"---URL: ----"+blocklinks.nth(i).getAttribute("href"));
           }
 
-
-	        //
+         System.out.println("Test Pass");	        //
 
 	        //block.locator("#input").nth(2).click();
             
